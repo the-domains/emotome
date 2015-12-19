@@ -1,0 +1,28 @@
+name: EMOTOME
+favicon: null
+layout_spectrum: 0.9147408930584788
+typography_spectrum: 0.05345580098219216
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9750122940167785
+  lightness: 0.3014298425987363
+  saturation: 0.1582431965507567
+  rhythmicContrast: 0.48740622075274587
+purpose: []
